@@ -26,7 +26,7 @@ Analyze my spotify data on Jan - Nov 2022 for seeking personal listening music t
   - Beg For Me
 
 ### Dashboard
-you can see [dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmU0NTg2NzMtZTNhMi00OTdmLTkyNmYtYThhNzkyNmQxZjFmIiwidCI6ImNmODFmMWRmLWRlNTktNGMyOS05MWRhLWEyZGZkMDRhYTc1MSIsImMiOjEwfQ%3D%3D&pageName=ReportSection) on web
+you can see [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmUxZTM3YWYtMzljNy00NTJmLThiMGEtNTlkMzJkZjQyMzBmIiwidCI6ImNmODFmMWRmLWRlNTktNGMyOS05MWRhLWEyZGZkMDRhYTc1MSIsImMiOjEwfQ%3D%3D) on web
 
 ![Screenshot 2022-12-11 030853](https://user-images.githubusercontent.com/79447479/206873486-69b89ed2-5b95-4797-b585-67aded4d3e84.png)
 
